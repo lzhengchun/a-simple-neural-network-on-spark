@@ -6,4 +6,6 @@ detailed comments about this ANN model please refer https://github.com/lzcbetter
 
 todo:
 
-add comments about the implementaion
+1. add comments about the implementaion
+
+2. well abstract as a class and make the model more general
