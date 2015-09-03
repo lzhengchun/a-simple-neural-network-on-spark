@@ -2,7 +2,7 @@
 
 A simple implementation of artificial neural network based on Apache Spark and python. this is another implementation of my toy program  https://github.com/lzcbetter/step-by-step-neural-network.
 
-a virtual machine image for test is provided in online course https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info
+a virtual machine used for testing is provided by an online course https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info, with which a spark environemnt has been well configured.
 
 detailed comments about this ANN model please refer https://github.com/lzcbetter/step-by-step-neural-network
 
