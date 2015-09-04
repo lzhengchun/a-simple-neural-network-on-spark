@@ -6,6 +6,11 @@ a virtual machine used for testing is provided by an online course https://cours
 
 detailed comments about this ANN model please refer https://github.com/lzcbetter/step-by-step-neural-network
 
+process flow chart：
+
+![alt text](flow_chart.png)
+
+
 todo:
 
 1. add comments about the implementaion
