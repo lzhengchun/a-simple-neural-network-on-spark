@@ -17,4 +17,6 @@ todo:
 
 2. well abstract as a class and make the model more general
 
+Notes:
 
+As you can see, it is firly easy to implement a simple aritfical neural netowork, as I said in my another ANN toy model, ANN is not magic and not that difficult to understand and implement, the only thing you should do is just do it!  Get it working before you optimize it.
