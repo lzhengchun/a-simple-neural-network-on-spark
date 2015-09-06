@@ -20,3 +20,5 @@ todo:
 Notes:
 
 As you can see, it is firly easy to implement a simple aritfical neural netowork, as I said in my another ANN toy model, ANN is not magic and not that difficult to understand and implement, the only thing you should do is just do it!  Get it working before you optimize it.
+
+Further improvement may be carried out via calibrate the neural network model parameter like hidden layer size.
