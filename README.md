@@ -1,10 +1,10 @@
 # a simple neural network using apache spark
 
-A simple implementation of an artificial neural network using Apache Spark and python. this is another implementation of my toy program  https://github.com/lzcbetter/step-by-step-neural-network.
+A simple implementation of an artificial neural network using Apache Spark and python. this is another implementation of my toy program  https://github.com/lzhengchun/step-by-step-neural-network.
 
 a virtual machine used for testing is provided by an online course: https://courses.edx.org/courses/BerkeleyX/CS190.1x/1T2015/info, with which a spark environemnt has been properly configured.
 
-about detailed comments about this ANN model, please refer to: https://github.com/lzcbetter/step-by-step-neural-network
+about detailed comments about this ANN model, please refer to: https://github.com/lzhengchun/step-by-step-neural-network
 
 process flow chart：
 
